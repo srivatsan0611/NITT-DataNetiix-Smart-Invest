@@ -1,4 +1,6 @@
 # NITT-DataNetiix-Smart-Invest
+
+by Smruthi Balaji and Srivatsan Srinivasan
 contains all the necessary files, test cases, presentation and the main application in this repo
 
 
